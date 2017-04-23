@@ -10,6 +10,6 @@ alt: image-alt
 project-date:
 client:
 category: 
-description: O principal diferencial da Markitt está no baixo custo do seu produto, isso se deve ao uso dos Qr Codes. Esta tecnologia vem ganhando espaço no mercado e tem aplicações diversas, uma delas é o controle de estoque. A nossa empresa trabalha para que os armazéns de café possam ter acesso a este recurso e possam assim, agregar ainda mais valor ao seu produto.
+description: O principal diferencial da Markitt está no baixo custo de seu produto, e isso se deve ao uso de QR Codes. Esta tecnologia vem ganhando espaço no mercado e tem aplicações diversas, sendo uma delas o controle de estoque. Nossa empresa trabalha para que os armazéns de café tenham acesso a este recurso, para assim poder agregar ainda mais valor a seus produtos.
 
 ---
